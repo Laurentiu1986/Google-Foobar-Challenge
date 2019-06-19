@@ -1,3 +1,4 @@
+#####Amzarescu Laurentiu-Gabriel#####
 def solution(total_lambs):
     total = 1   #total of lambs given
     current = 1    #current henchman   
